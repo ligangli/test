@@ -1,0 +1,11 @@
+// @import "./new.scss";
+
+.box{
+	border:1px solid #ccc;
+	background: url("../img/test.jpg") no-repeat;
+	p{
+			color:red;
+			font-size:50px;
+			display: flex;
+		}
+}
